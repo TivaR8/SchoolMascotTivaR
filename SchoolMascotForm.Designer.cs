@@ -28,20 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.lblTiva = new System.Windows.Forms.Label();
             this.SuspendLayout();
+            // 
+            // lblTiva
+            // 
+            this.lblTiva.AutoSize = true;
+            this.lblTiva.Location = new System.Drawing.Point(112, 61);
+            this.lblTiva.Name = "lblTiva";
+            this.lblTiva.Size = new System.Drawing.Size(28, 13);
+            this.lblTiva.TabIndex = 0;
+            this.lblTiva.Text = "Tiva";
             // 
             // frmSchoolMascot
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Controls.Add(this.lblTiva);
             this.Name = "frmSchoolMascot";
             this.Text = "School Mascot By Tiva";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
+
+        private System.Windows.Forms.Label lblTiva;
     }
 }
 
