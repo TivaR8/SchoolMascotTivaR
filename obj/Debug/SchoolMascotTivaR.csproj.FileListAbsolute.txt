@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\SchoolMascotTivaR\SchoolMascotTivaR\bin\Debug\SchoolMascotTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\SchoolMascotTivaR\SchoolMascotTivaR\bin\Debug\SchoolMascotTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\SchoolMascotTivaR\SchoolMascotTivaR\bin\Debug\SchoolMascotTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\SchoolMascotTivaR\SchoolMascotTivaR\obj\Debug\SchoolMascotTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\SchoolMascotTivaR\SchoolMascotTivaR\obj\Debug\SchoolMascotTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\SchoolMascotTivaR\SchoolMascotTivaR\obj\Debug\SchoolMascotTivaR.frmSchoolMascot.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\SchoolMascotTivaR\SchoolMascotTivaR\obj\Debug\SchoolMascotTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\SchoolMascotTivaR\SchoolMascotTivaR\obj\Debug\SchoolMascotTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\SchoolMascotTivaR\SchoolMascotTivaR\obj\Debug\SchoolMascotTivaR.pdb
